@@ -1,0 +1,17 @@
+{
+  "name": "ebbudiongan-09252024-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/dog-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/dog-api.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
